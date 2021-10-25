@@ -6,3 +6,5 @@ def make_char(char):
 		print("all")   
 make_char("aa")
 #emoji 
+
+right this is
