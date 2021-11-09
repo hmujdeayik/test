@@ -9,7 +9,7 @@ def make_char(char):
 
 make_char("aa")
 ```
-#:grinning: 
+:grinning: 
 [Please have a look](https://www.analyticsvidhya.com/)
 
 To check your edits:\
