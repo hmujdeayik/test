@@ -4,7 +4,7 @@ I am making another edit
 ```
 def make_char(char):
 	if char="":
-		print("all")
+	 print("all")
 make_char("aa")
 ```
 :grinning: 
