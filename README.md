@@ -1,8 +1,19 @@
-# test
-#for testing
-#I am making an edit
+### test
+##for testing
+I am making another edit
+```
+python
 def make_char(char):
 	if char="":
-		print("all")   
+		print("all")
+
 make_char("aa")
-#emoji 
+```
+#:grinning: 
+[Please have a look](https://www.analyticsvidhya.com/)
+To check your edits:
+-_Preview_ changes..
+-**Red** is deleted or modified..
+-**Green** is new lines or updated lines..
+
+
